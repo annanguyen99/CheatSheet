@@ -1,4 +1,4 @@
-# CheatShhet
+# CheatSheet
 A cheat sheet for computer science!
 
 **Linux guide**
@@ -53,7 +53,7 @@ View tensor board:
 tensorboard —logdir=logs/
 
 
-**Github guide **
+**Github**
 
 Git init
 Git remote add origin [link]
@@ -77,7 +77,7 @@ Git diff my branch master — myfile.cs
 _How to fork after accidentally clone_
 https://admcpr.com/what-the-fork/ 
  
-**Rails **
+**Rails**
 
 Add a new fieldname to existing data table:
 rails generate migration add_fieldname_to_tablename fieldname:string
@@ -85,7 +85,7 @@ Destroy controller
 Rails destroy controller controllerName 
 
 
-**C++:**
+**C++**
 - Solved the filesystem error with the c_cpp_properties_json
 AWS:
 - Ruby on Rails:
