@@ -1,6 +1,7 @@
 # CheatShhet
 A cheat sheet for computer science!
-Linux guide
+
+**Linux guide**
 
 Through terminal 
 
@@ -23,7 +24,7 @@ On Verizon
 
 ssh hpc0
 
-How to activate python virtual env
+_How to activate python virtual env_
 source env/   -> activate python
 source env/bin/activate.csh
 pip install TensorFlow 
@@ -33,7 +34,7 @@ pip install opencv-python
 
 pip install TensorFlow
 
-Transfer data
+_Transfer data_
 
 cp [filename] [filename2]
 scp [filename] mnguyen001@ssh.csbsju.edu:Desktop/folder name
@@ -52,31 +53,31 @@ View tensor board:
 tensorboard —logdir=logs/
 
 
-Github guide 
+**Github guide **
 
 Git init
 Git remote add origin [link]
 
 
-Note:
+_Note:_
 In src folder:
 java -Xlint:unchecked controller/ThreadClass.java
 java controller/ThreadClass 1024
 
-Add branch
+_Add branch_
 git branch #to list all the branch
 git branch <branch_name> # to add branch 
 git checkout <branch_name> #to switch to branch 
 
-Pull from another branch
+_Pull from another branch_
 git pull origin <branch-name>
 
 Git diff my branch master — myfile.cs
 
-How to fork after accidentally clone
+_How to fork after accidentally clone_
 https://admcpr.com/what-the-fork/ 
  
-Rails 
+**Rails **
 
 Add a new fieldname to existing data table:
 rails generate migration add_fieldname_to_tablename fieldname:string
@@ -84,7 +85,7 @@ Destroy controller
 Rails destroy controller controllerName 
 
 
-C++:
+**C++:**
 - Solved the filesystem error with the c_cpp_properties_json
 AWS:
 - Ruby on Rails:
@@ -94,7 +95,7 @@ Quaternion
 python -m pip install --upgrade --force-reinstall numpy-quaternion 
 
 
-For iDock every time (in Ubuntu)
+**For iDock every time (in Ubuntu)**
 
 export PATH=$PATH:/home/mythanhthaonguyen/idock/bin/Linux
 In the folder contain (debug.conf file)
