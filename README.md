@@ -76,7 +76,11 @@ Git diff my branch master — myfile.cs
 
 _How to fork after accidentally clone_
 https://admcpr.com/what-the-fork/ 
- 
+	
+_How to remove git upstream_
+git remote rm upstream 
+	
+	
 **Rails**
 
 Add a new fieldname to existing data table:
