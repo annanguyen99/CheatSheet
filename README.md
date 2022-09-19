@@ -106,5 +106,7 @@ export PATH=$PATH:/home/mythanhthaonguyen/idock/bin/Linux
 In the folder contain (debug.conf file)
 idock -- config debug.conf 
 
-  
+**Linux**
+remove file forcefully 
+rm -rf dirname
 
